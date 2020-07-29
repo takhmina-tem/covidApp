@@ -1,11 +1,10 @@
 mkdir -p ~/.streamlit/
-echo “\
+echo "\
 [general]\n\
-email = \”temirbay.takhmina@gmail.com\”\n\
-“ > ~/.streamlit/covidSt.py
-echo “\
+email = \"temirbay.takhmina@gmail.com\"\n\
+" > ~/.streamlit/credentials.toml
+echo "\
 [server]\n\
 headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
-“ > ~/.streamlit/covidSt.py
