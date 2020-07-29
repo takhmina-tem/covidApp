@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run covidApp.py
+web: sh setup.sh && streamlit run aklsps-qw-p.py
