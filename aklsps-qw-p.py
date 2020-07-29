@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 st.sidebar.title("News")
 st.sidebar.info(
-	        "Here you can see the **news** about upcomming COVID-19 vaccine"
+	        "Here you can see the latest [**news**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/news) about COVID-19."
 	        ""
 	        ""
 	        ""
@@ -19,7 +19,7 @@ st.sidebar.info(
 
 st.sidebar.title("Charity")
 st.sidebar.info(
-	        "Here you can make a **donation** for fighting against COVID-19."
+	        "You can make a [**donation**](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate) for fighting against COVID-19."
 	        ""
 	        ""
 	        ""
@@ -32,8 +32,8 @@ st.sidebar.title("About")
 st.sidebar.info(
 	        """
 	        This app is developed and maintained by Takhmina Temirbay. You can learn more about me at
-	        [takhminatemirbay.com](https://takhminatemirbay.com). You can see the source code on github.
-			"""
+	        [takhminatemirbay.com](https://takhminatemirbay.com).
+		"""
 
 )
 
