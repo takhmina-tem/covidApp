@@ -32,7 +32,7 @@ st.sidebar.title("About")
 st.sidebar.info(
 	        """
 	        This app is developed and maintained by Takhmina Temirbay. You can learn more about me at
-	        [takhminatemirbay.com](https://takhminatemirbay.com).
+	        [**takhminatemirbay.com**](https://takhminatemirbay.com).
 		"""
 
 )
