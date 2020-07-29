@@ -6,6 +6,10 @@ from streamlit.ReportThread import get_report_ctx
 from streamlit.hashing import _CodeHasher
 from streamlit.server.Server import Server
 
+const PORT = process.env.PORT || '8080'
+
+app=express();
+app.set("port",PORT);
 
 st.sidebar.title("News")
 st.sidebar.info(
